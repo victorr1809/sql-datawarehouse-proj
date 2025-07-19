@@ -1,2 +1,3 @@
-# sql-datawarehouse-proj
+# DATA WAREHOUSE PROJECT
 Buiding a DWH using PostgreSQL include data modeling and analytics.
+...
