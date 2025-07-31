@@ -1,3 +1,3 @@
-# DATA WAREHOUSE PROJECT
+# Data Warehouse and Analytics Project
 Buiding a DWH using PostgreSQL include data modeling and analytics.
 ...
